@@ -1,4 +1,4 @@
-# Helo! I'm Luiz Campos 👋
+# Hello! I'm Luiz Campos 👋
 
 - 🔭 I’m currently working whit back end 
 - 🌱 I’am currently studying kotlin and cloud AWS 
