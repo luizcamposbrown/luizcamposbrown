@@ -1,8 +1,7 @@
 # Hello! I'm Luiz Campos 👋
 
-- 🔭 I’m currently working whit back end 
-- 🌱 I’am currently studying kotlin and cloud AWS 
-- ⚡ Fun fact: love traveling and meeting people
+- 🌱 I am currently studying a master's degree in full-stack development
+- ⚡ Fun fact: I love traveling and meeting people
 
 <div align="center">
   <a href="https://github.com/luizcamposbrown">
